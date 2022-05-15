@@ -7,4 +7,5 @@
     <string name="correo_electronico">Correo Electronico</string>
     <string name="contrasena">Contraseña</string>
     <string name="google_logo">google_logo</string>
+    <string name="title_activity_home">HomeActivity</string>
 </resources>
