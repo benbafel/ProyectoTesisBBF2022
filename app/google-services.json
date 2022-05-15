@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "40384892556",
+    "project_id": "starpro-tesis-bbf-2022",
+    "storage_bucket": "starpro-tesis-bbf-2022.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40384892556:android:c768f6d5c4ba80445fb5a9",
+        "android_client_info": {
+          "package_name": "com.benbafel.starprologin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40384892556-nhn3urblcqpap3hmbo8ipgh97b032eqh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5ZMCgY6IwyNyG4vv3qq_RG1Pi4bQiLuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40384892556-nhn3urblcqpap3hmbo8ipgh97b032eqh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
