@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">StarProLogin</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="app_logo">app logo</string>
+    <string name="star_pro">STAR PRO</string>
+    <string name="correo_electronico">Correo Electronico</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="google_logo">google_logo</string>
+</resources>
